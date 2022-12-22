@@ -1,3 +1,3 @@
 # Web-design-1
 
-My first static website 
+My first ever static website with HTML and CSS, #nobootstrap 
